@@ -5,7 +5,7 @@ The project was done as a term paper for the first semester of the digital games
 the project was not properly completed.
 you need a python compiller to run the game, the game is not an executable.
 
-Credits:<br/>
+Credits:
 Danilo Silva Moraes: Art and Music.
 Icaro Risseto Leite: Game Designer.
 Pedro Arantes: Documentation.
